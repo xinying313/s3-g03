@@ -1,26 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>SCST1133 – Assignment 1 Log Activity (S03-G3)</title>
-<style>
-  body { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; color: #1f2328; background: #fff; max-width: 1100px; margin: 0 auto; padding: 24px; line-height: 1.5; }
-  h1, h2 { border-bottom: 1px solid #d1d9e0; padding-bottom: .3em; }
-  .wrap { overflow-x: auto; }
-  table { border-collapse: collapse; width: 100%; margin: 16px 0; font-size: 14px; }
-  th, td { border: 1px solid #d1d9e0; padding: 6px 13px; text-align: left; vertical-align: top; }
-  th { background: #f6f8fa; font-weight: 600; }
-  tr:nth-child(even) td { background: #f6f8fa; }
-  td.num, th.num { text-align: right; }
-  @media (prefers-color-scheme: dark) {
-    body { color: #e6edf3; background: #0d1117; }
-    h1, h2 { border-color: #3d444d; }
-    th, td { border-color: #3d444d; }
-    th { background: #151b23; }
-    tr:nth-child(even) td { background: #151b23; }
-    a { color: #4493f8; }
-  }
+
 </style>
 </head>
 <body>
